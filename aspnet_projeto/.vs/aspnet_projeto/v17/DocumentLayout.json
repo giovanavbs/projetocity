@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\3A-DS-ETIM\\GV \u0026 RM\\projeto_gr\\aspnet_projeto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F4AF6F-21CA-45B7-B029-65C76077CC9F}|aspnet_projeto\\aspnet_projeto.csproj|f:\\3a-ds-etim\\gv \u0026 rm\\projeto_gr\\aspnet_projeto\\aspnet_projeto\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F4AF6F-21CA-45B7-B029-65C76077CC9F}|aspnet_projeto\\aspnet_projeto.csproj|solutionrelative:aspnet_projeto\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F4AF6F-21CA-45B7-B029-65C76077CC9F}|aspnet_projeto\\aspnet_projeto.csproj|f:\\3a-ds-etim\\gv \u0026 rm\\projeto_gr\\aspnet_projeto\\aspnet_projeto\\repositorio\\clienterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F4AF6F-21CA-45B7-B029-65C76077CC9F}|aspnet_projeto\\aspnet_projeto.csproj|solutionrelative:aspnet_projeto\\repositorio\\clienterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F4AF6F-21CA-45B7-B029-65C76077CC9F}|aspnet_projeto\\aspnet_projeto.csproj|f:\\3a-ds-etim\\gv \u0026 rm\\projeto_gr\\aspnet_projeto\\aspnet_projeto\\views\\home\\painelcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6F4AF6F-21CA-45B7-B029-65C76077CC9F}|aspnet_projeto\\aspnet_projeto.csproj|solutionrelative:aspnet_projeto\\views\\home\\painelcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F4AF6F-21CA-45B7-B029-65C76077CC9F}|aspnet_projeto\\aspnet_projeto.csproj|f:\\3a-ds-etim\\gv \u0026 rm\\projeto_gr\\aspnet_projeto\\aspnet_projeto\\repositorio\\iclienterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F4AF6F-21CA-45B7-B029-65C76077CC9F}|aspnet_projeto\\aspnet_projeto.csproj|solutionrelative:aspnet_projeto\\repositorio\\iclienterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PainelCliente.cshtml",
+              "DocumentMoniker": "F:\\3A-DS-ETIM\\GV \u0026 RM\\projeto_gr\\aspnet_projeto\\aspnet_projeto\\Views\\Home\\PainelCliente.cshtml",
+              "RelativeDocumentMoniker": "aspnet_projeto\\Views\\Home\\PainelCliente.cshtml",
+              "ToolTip": "F:\\3A-DS-ETIM\\GV \u0026 RM\\projeto_gr\\aspnet_projeto\\aspnet_projeto\\Views\\Home\\PainelCliente.cshtml",
+              "RelativeToolTip": "aspnet_projeto\\Views\\Home\\PainelCliente.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T11:21:00.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IClienteRepositorio.cs",
+              "DocumentMoniker": "F:\\3A-DS-ETIM\\GV \u0026 RM\\projeto_gr\\aspnet_projeto\\aspnet_projeto\\Repositorio\\IClienteRepositorio.cs",
+              "RelativeDocumentMoniker": "aspnet_projeto\\Repositorio\\IClienteRepositorio.cs",
+              "ToolTip": "F:\\3A-DS-ETIM\\GV \u0026 RM\\projeto_gr\\aspnet_projeto\\aspnet_projeto\\Repositorio\\IClienteRepositorio.cs",
+              "RelativeToolTip": "aspnet_projeto\\Repositorio\\IClienteRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T11:00:41.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClienteRepositorio.cs",
+              "DocumentMoniker": "F:\\3A-DS-ETIM\\GV \u0026 RM\\projeto_gr\\aspnet_projeto\\aspnet_projeto\\Repositorio\\ClienteRepositorio.cs",
+              "RelativeDocumentMoniker": "aspnet_projeto\\Repositorio\\ClienteRepositorio.cs",
+              "ToolTip": "F:\\3A-DS-ETIM\\GV \u0026 RM\\projeto_gr\\aspnet_projeto\\aspnet_projeto\\Repositorio\\ClienteRepositorio.cs",
+              "RelativeToolTip": "aspnet_projeto\\Repositorio\\ClienteRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T11:29:44.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\3A-DS-ETIM\\GV \u0026 RM\\projeto_gr\\aspnet_projeto\\aspnet_projeto\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "aspnet_projeto\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\3A-DS-ETIM\\GV \u0026 RM\\projeto_gr\\aspnet_projeto\\aspnet_projeto\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "aspnet_projeto\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAcwEoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T10:53:43.201Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

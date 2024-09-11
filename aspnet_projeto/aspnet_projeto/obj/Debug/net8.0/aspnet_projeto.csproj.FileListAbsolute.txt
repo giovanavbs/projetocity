@@ -1,0 +1,82 @@
+C:\projeto_gr\aspnet_projeto\aspnet_projeto\bin\Debug\net8.0\appsettings.Development.json
+C:\projeto_gr\aspnet_projeto\aspnet_projeto\bin\Debug\net8.0\appsettings.json
+C:\projeto_gr\aspnet_projeto\aspnet_projeto\bin\Debug\net8.0\aspnet_projeto.staticwebassets.runtime.json
+C:\projeto_gr\aspnet_projeto\aspnet_projeto\bin\Debug\net8.0\aspnet_projeto.exe
+C:\projeto_gr\aspnet_projeto\aspnet_projeto\bin\Debug\net8.0\aspnet_projeto.deps.json
+C:\projeto_gr\aspnet_projeto\aspnet_projeto\bin\Debug\net8.0\aspnet_projeto.runtimeconfig.json
+C:\projeto_gr\aspnet_projeto\aspnet_projeto\bin\Debug\net8.0\aspnet_projeto.dll
+C:\projeto_gr\aspnet_projeto\aspnet_projeto\bin\Debug\net8.0\aspnet_projeto.pdb
+C:\projeto_gr\aspnet_projeto\aspnet_projeto\obj\Debug\net8.0\aspnet_projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\projeto_gr\aspnet_projeto\aspnet_projeto\obj\Debug\net8.0\aspnet_projeto.AssemblyInfoInputs.cache
+C:\projeto_gr\aspnet_projeto\aspnet_projeto\obj\Debug\net8.0\aspnet_projeto.AssemblyInfo.cs
+C:\projeto_gr\aspnet_projeto\aspnet_projeto\obj\Debug\net8.0\aspnet_projeto.csproj.CoreCompileInputs.cache
+C:\projeto_gr\aspnet_projeto\aspnet_projeto\obj\Debug\net8.0\aspnet_projeto.MvcApplicationPartsAssemblyInfo.cache
+C:\projeto_gr\aspnet_projeto\aspnet_projeto\obj\Debug\net8.0\aspnet_projeto.RazorAssemblyInfo.cache
+C:\projeto_gr\aspnet_projeto\aspnet_projeto\obj\Debug\net8.0\aspnet_projeto.RazorAssemblyInfo.cs
+C:\projeto_gr\aspnet_projeto\aspnet_projeto\obj\Debug\net8.0\staticwebassets.build.json
+C:\projeto_gr\aspnet_projeto\aspnet_projeto\obj\Debug\net8.0\staticwebassets.development.json
+C:\projeto_gr\aspnet_projeto\aspnet_projeto\obj\Debug\net8.0\staticwebassets\msbuild.aspnet_projeto.Microsoft.AspNetCore.StaticWebAssets.props
+C:\projeto_gr\aspnet_projeto\aspnet_projeto\obj\Debug\net8.0\staticwebassets\msbuild.build.aspnet_projeto.props
+C:\projeto_gr\aspnet_projeto\aspnet_projeto\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.aspnet_projeto.props
+C:\projeto_gr\aspnet_projeto\aspnet_projeto\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.aspnet_projeto.props
+C:\projeto_gr\aspnet_projeto\aspnet_projeto\obj\Debug\net8.0\staticwebassets.pack.json
+C:\projeto_gr\aspnet_projeto\aspnet_projeto\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\projeto_gr\aspnet_projeto\aspnet_projeto\obj\Debug\net8.0\scopedcss\bundle\aspnet_projeto.styles.css
+C:\projeto_gr\aspnet_projeto\aspnet_projeto\obj\Debug\net8.0\scopedcss\projectbundle\aspnet_projeto.bundle.scp.css
+C:\projeto_gr\aspnet_projeto\aspnet_projeto\obj\Debug\net8.0\aspnet_projeto.dll
+C:\projeto_gr\aspnet_projeto\aspnet_projeto\obj\Debug\net8.0\refint\aspnet_projeto.dll
+C:\projeto_gr\aspnet_projeto\aspnet_projeto\obj\Debug\net8.0\aspnet_projeto.pdb
+C:\projeto_gr\aspnet_projeto\aspnet_projeto\obj\Debug\net8.0\aspnet_projeto.genruntimeconfig.cache
+C:\projeto_gr\aspnet_projeto\aspnet_projeto\obj\Debug\net8.0\ref\aspnet_projeto.dll
+F:\3A-DS-ETIM\GV & RM\projeto_gr\aspnet_projeto\aspnet_projeto\obj\Debug\net8.0\aspnet_projeto.csproj.AssemblyReference.cache
+F:\3A-DS-ETIM\GV & RM\projeto_gr\aspnet_projeto\aspnet_projeto\obj\Debug\net8.0\aspnet_projeto.GeneratedMSBuildEditorConfig.editorconfig
+F:\3A-DS-ETIM\GV & RM\projeto_gr\aspnet_projeto\aspnet_projeto\obj\Debug\net8.0\aspnet_projeto.AssemblyInfoInputs.cache
+F:\3A-DS-ETIM\GV & RM\projeto_gr\aspnet_projeto\aspnet_projeto\obj\Debug\net8.0\aspnet_projeto.AssemblyInfo.cs
+F:\3A-DS-ETIM\GV & RM\projeto_gr\aspnet_projeto\aspnet_projeto\obj\Debug\net8.0\aspnet_projeto.csproj.CoreCompileInputs.cache
+F:\3A-DS-ETIM\GV & RM\projeto_gr\aspnet_projeto\aspnet_projeto\obj\Debug\net8.0\aspnet_projeto.MvcApplicationPartsAssemblyInfo.cache
+F:\3A-DS-ETIM\GV & RM\projeto_gr\aspnet_projeto\aspnet_projeto\obj\Debug\net8.0\aspnet_projeto.RazorAssemblyInfo.cache
+F:\3A-DS-ETIM\GV & RM\projeto_gr\aspnet_projeto\aspnet_projeto\obj\Debug\net8.0\aspnet_projeto.RazorAssemblyInfo.cs
+F:\3A-DS-ETIM\GV & RM\projeto_gr\aspnet_projeto\aspnet_projeto\obj\Debug\net8.0\aspnet_projeto.dll
+F:\3A-DS-ETIM\GV & RM\projeto_gr\aspnet_projeto\aspnet_projeto\obj\Debug\net8.0\refint\aspnet_projeto.dll
+F:\3A-DS-ETIM\GV & RM\projeto_gr\aspnet_projeto\aspnet_projeto\obj\Debug\net8.0\aspnet_projeto.pdb
+F:\3A-DS-ETIM\GV & RM\projeto_gr\aspnet_projeto\aspnet_projeto\bin\Debug\net8.0\appsettings.Development.json
+F:\3A-DS-ETIM\GV & RM\projeto_gr\aspnet_projeto\aspnet_projeto\bin\Debug\net8.0\appsettings.json
+F:\3A-DS-ETIM\GV & RM\projeto_gr\aspnet_projeto\aspnet_projeto\bin\Debug\net8.0\aspnet_projeto.staticwebassets.runtime.json
+F:\3A-DS-ETIM\GV & RM\projeto_gr\aspnet_projeto\aspnet_projeto\bin\Debug\net8.0\aspnet_projeto.exe
+F:\3A-DS-ETIM\GV & RM\projeto_gr\aspnet_projeto\aspnet_projeto\bin\Debug\net8.0\aspnet_projeto.deps.json
+F:\3A-DS-ETIM\GV & RM\projeto_gr\aspnet_projeto\aspnet_projeto\bin\Debug\net8.0\aspnet_projeto.runtimeconfig.json
+F:\3A-DS-ETIM\GV & RM\projeto_gr\aspnet_projeto\aspnet_projeto\bin\Debug\net8.0\aspnet_projeto.dll
+F:\3A-DS-ETIM\GV & RM\projeto_gr\aspnet_projeto\aspnet_projeto\bin\Debug\net8.0\aspnet_projeto.pdb
+F:\3A-DS-ETIM\GV & RM\projeto_gr\aspnet_projeto\aspnet_projeto\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+F:\3A-DS-ETIM\GV & RM\projeto_gr\aspnet_projeto\aspnet_projeto\bin\Debug\net8.0\Google.Protobuf.dll
+F:\3A-DS-ETIM\GV & RM\projeto_gr\aspnet_projeto\aspnet_projeto\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+F:\3A-DS-ETIM\GV & RM\projeto_gr\aspnet_projeto\aspnet_projeto\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+F:\3A-DS-ETIM\GV & RM\projeto_gr\aspnet_projeto\aspnet_projeto\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+F:\3A-DS-ETIM\GV & RM\projeto_gr\aspnet_projeto\aspnet_projeto\bin\Debug\net8.0\MySql.Data.dll
+F:\3A-DS-ETIM\GV & RM\projeto_gr\aspnet_projeto\aspnet_projeto\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\3A-DS-ETIM\GV & RM\projeto_gr\aspnet_projeto\aspnet_projeto\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\3A-DS-ETIM\GV & RM\projeto_gr\aspnet_projeto\aspnet_projeto\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+F:\3A-DS-ETIM\GV & RM\projeto_gr\aspnet_projeto\aspnet_projeto\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\3A-DS-ETIM\GV & RM\projeto_gr\aspnet_projeto\aspnet_projeto\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\3A-DS-ETIM\GV & RM\projeto_gr\aspnet_projeto\aspnet_projeto\bin\Debug\net8.0\System.Text.Json.dll
+F:\3A-DS-ETIM\GV & RM\projeto_gr\aspnet_projeto\aspnet_projeto\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\3A-DS-ETIM\GV & RM\projeto_gr\aspnet_projeto\aspnet_projeto\bin\Debug\net8.0\ZstdSharp.dll
+F:\3A-DS-ETIM\GV & RM\projeto_gr\aspnet_projeto\aspnet_projeto\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+F:\3A-DS-ETIM\GV & RM\projeto_gr\aspnet_projeto\aspnet_projeto\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+F:\3A-DS-ETIM\GV & RM\projeto_gr\aspnet_projeto\aspnet_projeto\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+F:\3A-DS-ETIM\GV & RM\projeto_gr\aspnet_projeto\aspnet_projeto\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+F:\3A-DS-ETIM\GV & RM\projeto_gr\aspnet_projeto\aspnet_projeto\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+F:\3A-DS-ETIM\GV & RM\projeto_gr\aspnet_projeto\aspnet_projeto\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+F:\3A-DS-ETIM\GV & RM\projeto_gr\aspnet_projeto\aspnet_projeto\obj\Debug\net8.0\staticwebassets.build.json
+F:\3A-DS-ETIM\GV & RM\projeto_gr\aspnet_projeto\aspnet_projeto\obj\Debug\net8.0\staticwebassets.development.json
+F:\3A-DS-ETIM\GV & RM\projeto_gr\aspnet_projeto\aspnet_projeto\obj\Debug\net8.0\staticwebassets\msbuild.aspnet_projeto.Microsoft.AspNetCore.StaticWebAssets.props
+F:\3A-DS-ETIM\GV & RM\projeto_gr\aspnet_projeto\aspnet_projeto\obj\Debug\net8.0\staticwebassets\msbuild.build.aspnet_projeto.props
+F:\3A-DS-ETIM\GV & RM\projeto_gr\aspnet_projeto\aspnet_projeto\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.aspnet_projeto.props
+F:\3A-DS-ETIM\GV & RM\projeto_gr\aspnet_projeto\aspnet_projeto\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.aspnet_projeto.props
+F:\3A-DS-ETIM\GV & RM\projeto_gr\aspnet_projeto\aspnet_projeto\obj\Debug\net8.0\staticwebassets.pack.json
+F:\3A-DS-ETIM\GV & RM\projeto_gr\aspnet_projeto\aspnet_projeto\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\3A-DS-ETIM\GV & RM\projeto_gr\aspnet_projeto\aspnet_projeto\obj\Debug\net8.0\scopedcss\bundle\aspnet_projeto.styles.css
+F:\3A-DS-ETIM\GV & RM\projeto_gr\aspnet_projeto\aspnet_projeto\obj\Debug\net8.0\scopedcss\projectbundle\aspnet_projeto.bundle.scp.css
+F:\3A-DS-ETIM\GV & RM\projeto_gr\aspnet_projeto\aspnet_projeto\obj\Debug\net8.0\aspnet_projeto.genruntimeconfig.cache
+F:\3A-DS-ETIM\GV & RM\projeto_gr\aspnet_projeto\aspnet_projeto\obj\Debug\net8.0\ref\aspnet_projeto.dll
+F:\3A-DS-ETIM\GV & RM\projeto_gr\aspnet_projeto\aspnet_projeto\obj\Debug\net8.0\aspnet_p.72DAD779.Up2Date
