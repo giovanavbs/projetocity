@@ -12,5 +12,16 @@ namespace aspnet_projeto.Repositorio
         void Cadastrar(Cliente cliente);
         //Buscar Todos os clientes
         IEnumerable<Cliente> TodosClientes(); //lista de ARRAY dos cliente tudo
+
+        //Busca todos por id
+        Cliente ObterCliente(int id);
+
+
+        //Atualizar Cliente
+        void Atualizar(Cliente cliente);
+
+        //excluir
+        void Excluir(int id);
+
     }
 }

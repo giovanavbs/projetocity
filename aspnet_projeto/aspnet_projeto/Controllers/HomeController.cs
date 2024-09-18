@@ -11,7 +11,7 @@ namespace aspnet_projeto.Controllers
         private readonly ILogger<HomeController> _logger; // recurso essencial para detectar ou investigar problemas(loggs) na injeção de dependencias
                                                           // interface = definir um conjunto de comportamentos que varias classes diferentes devem implementar
                                                           // - o mais proximo de uma classe abstrata(mas a abstrata nao deixa manipular varias classes diferentes)
-        
+
         private IClienteRepositorio? _clienteRepositorio; // _ = variavel(significa prioridade), ? = significa que vai receber conjunto de string
         private LoginCliente _loginCliente;
 
@@ -66,9 +66,9 @@ namespace aspnet_projeto.Controllers
         public IActionResult PainelCliente()
         { // retorna na pagina a lista de todos os clientes cadastrados seila
             return View(_clienteRepositorio.TodosClientes()); //chamando um metodo novo pra mostrar os crias cadastrados 
-                                                            // o metodo é criando no clienterepositorio e eh chamado no Iclienterepositorio
+                                                              // o metodo é criando no clienterepositorio e eh chamado no Iclienterepositorio
         }
-        
+
         // criando pagina cadastro de cliente, toda vez que for fazrt o cadastrar, alterar(crud) precida do httpost (duplo actionresult)
         public IActionResult CadastrarCliente()
         {
@@ -86,6 +86,48 @@ namespace aspnet_projeto.Controllers
             return RedirectToAction(nameof(PainelCliente)); // nameof - buscar o nome de algo
         }
 
-        
+        //editar Cliente
+        public IActionResult EditarCliente(int id)
+        {
+            // Carrega a liista de Cliente
+            var listaCliente = _clienteRepositorio.TodosClientes();
+            var ObjCliente = new Cliente
+            {
+                //metodo que lista cliente
+                ListaCliente = (List<Cliente>)listaCliente
+            };
+
+            //Retorna o cliente pegando o id
+            return View(_clienteRepositorio.ObterCliente(id));
+        }
+
+        // Carrega a liista de Cliente que envia a alteração(post)
+        [HttpPost]
+        public IActionResult EditarCliente(Cliente cliente)
+        {
+            // Carrega a lista de Cliente
+            var listaCliente = _clienteRepositorio.TodosClientes();
+
+            //metodo que atualiza cliente
+            _clienteRepositorio.Atualizar(cliente);
+            //redireciona para a pagina home
+            return RedirectToAction(nameof(PainelCliente));
+        }
+
+        // deletar
+        public IActionResult Delete(int id)
+        {
+            _clienteRepositorio.Excluir(id);
+            //redireciona para a pagina home
+            return RedirectToAction(nameof(PainelCliente));
+        }
+
+        public IActionResult LogoutCliente()
+        {
+            _loginCliente.Logout();
+            return RedirectToAction(nameof(Login));
+        }
+
+
     }
 }

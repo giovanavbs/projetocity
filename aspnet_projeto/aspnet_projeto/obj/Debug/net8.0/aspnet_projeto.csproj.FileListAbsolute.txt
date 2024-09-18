@@ -80,3 +80,4 @@ F:\3A-DS-ETIM\GV & RM\projeto_gr\aspnet_projeto\aspnet_projeto\obj\Debug\net8.0\
 F:\3A-DS-ETIM\GV & RM\projeto_gr\aspnet_projeto\aspnet_projeto\obj\Debug\net8.0\aspnet_projeto.genruntimeconfig.cache
 F:\3A-DS-ETIM\GV & RM\projeto_gr\aspnet_projeto\aspnet_projeto\obj\Debug\net8.0\ref\aspnet_projeto.dll
 F:\3A-DS-ETIM\GV & RM\projeto_gr\aspnet_projeto\aspnet_projeto\obj\Debug\net8.0\aspnet_p.72DAD779.Up2Date
+F:\3A-DS-ETIM\GV & RM\projeto_gr\aspnet_projeto\aspnet_projeto\obj\Debug\net8.0\aspnet_projeto.sourcelink.json
